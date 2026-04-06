@@ -62,7 +62,7 @@
 
 <div align="center">
 
-*"Todo expert já foi um iniciante. Todo pro já foi um amador."*
+*"You can do it, you ALWAYS can do it!"*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanBisneto1309.sanBisneto1309)
 
