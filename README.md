@@ -46,7 +46,7 @@
 | [Calculadora Inversa](https://github.com/sanBisneto1309/Calculadora-Inversa) | Você escolhe a operação antes dos números | C++ |
 | [Sorteio 1 a 7](https://github.com/sanBisneto1309/Sorteio-1-a-7) | Sorteador aleatório com random | C++ |
 | [Binário](https://github.com/sanBisneto1309/Binario) | Conversão e lógica binária | C++ |
-| [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com JS | HTML, CSS e JS |
+| [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com JS e Chart.JS | HTML, CSS, JS e Chart.JS |
 | [Mini Akinator](https://github.com/sanBisneto1309/mini-akinator) | Simulação de Akinator com Árvore de Decisão, BFS e DFS | Python |
 
 ---
