@@ -42,7 +42,7 @@
 
 | Projeto | O que é | Linguagem |
 |---|---|---|
-| [Planejador de Viagens](https://github.com/sanBisneto1309/Jogo-do-Bicho-C-) | Sistema de planejamento de viagens, voos e hospedagens com as bibliotecas Streamlit, SQLAlchemy, Plotly, Anthropic SDK, Amadeus SDK. | Python, HTML, CSS, JS e SQL |
+| [Planejador de Viagens](https://github.com/sanBisneto1309/Jogo-do-Bicho-C-) | Sistema de planejamento de viagens, voos e hospedagens com uso das bibliotecas Streamlit, SQLAlchemy, Plotly, Anthropic SDK, Amadeus SDK. | Python, HTML, CSS, JS e SQL |
 | [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com JS e Chart.JS | HTML, CSS, JS e Chart.JS |
 | [Mini Akinator](https://github.com/sanBisneto1309/mini-akinator) | Simulação de Akinator com Árvore de Decisão, BFS e DFS | Python |
 
