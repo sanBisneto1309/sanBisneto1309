@@ -43,10 +43,10 @@
 | Projeto | O que é | Linguagem |
 |---|---|---|
 | [Planejador de Viagens](https://github.com/sanBisneto1309/Jogo-do-Bicho-C-) | Sistema de planejamento de viagens, voos e hospedagens com uso das bibliotecas Streamlit, SQLAlchemy, Plotly, Anthropic SDK, Amadeus SDK. | Python, HTML, CSS, JS e SQL |
-| [PolitocosDB](https://github.com/sanBisneto1309/politicosdb) | Sistema de Banco De Dados de políticos com o uso de Dados eleitorais via API e Notícias recentes via RSS dos principais portais | Python e SQL |
+| [PoliticosDB](https://github.com/sanBisneto1309/politicosdb) | Sistema de Banco De Dados de políticos com o uso de Dados eleitorais via API e Notícias recentes via RSS dos principais portais | Python e SQL |
 | [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com o uso de JS e Chart.JS | HTML, CSS, JS e Chart.JS |
+| [VRP](https://github.com/lucazcoding/System-Routes-Optimizer) |  Contribuição como Desenvolvedor do Sistema de Roteamento de Veículos com o uso dos algoritmos Dijkstra e A*) | Python e HTML |
 | [Mini Akinator](https://github.com/sanBisneto1309/mini-akinator) | Simulação de Akinator com Árvore de Decisão, BFS e DFS | Python |
-| [VRP(Contribuição)](https://github.com/lucazcoding/System-Routes-Optimizer) |  Sistema de Roteamento de Veículos com o uso dos algoritmos Dijkstra e A*) | Python e HTML |
 
 
 ---
