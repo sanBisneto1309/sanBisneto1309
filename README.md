@@ -46,8 +46,7 @@
 | [PoliticosDB](https://github.com/sanBisneto1309/politicosdb) | Sistema de Banco De Dados de políticos com o uso de Dados eleitorais via API e Notícias recentes via RSS dos principais portais | Python e SQL |
 | [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com o uso de JS e Chart.JS | HTML, CSS, JS e Chart.JS |
 | [VRP](https://github.com/lucazcoding/System-Routes-Optimizer) |  Contribuição como Desenvolvedor do Sistema de Roteamento de Veículos com o uso dos algoritmos Dijkstra e A* | Python e HTML |
-| [TaskFlowAI](https://github.com/lucazcoding/System-Routes-Optimizer) |  Gerenciador de tarefas com priorização inteligente via Claude AI.
-Roda localmente com SQLite — sem Docker, sem PostgreSQL. | Typescript, JavaScript, CSS e HTML |
+| [TaskFlowAI](https://github.com/sanBisneto1309/taskflow-ai) |  Gerenciador de tarefas com priorização inteligente via Claude AI | Typescript, JavaScript, CSS e HTML |
 | [Mini Akinator](https://github.com/sanBisneto1309/mini-akinator) | Simulação de Akinator com Árvore de Decisão, BFS e DFS | Python |
 
 
