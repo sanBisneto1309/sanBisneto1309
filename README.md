@@ -18,7 +18,7 @@
 > Antônio Santiago — Maceió, AL
 > Cursando: Ciência da Computação na UNIMA
 > Foco atual: Lógica de programação, algoritmos e desenvolvimento web
-> Aprendendo sempre: C++, Python, HTML, CSS, JavaScript e SQL
+> Aprendendo sempre: C++, Python, HTML, CSS, JavaScript e Java
 ```
 
 ---
