@@ -8,6 +8,7 @@
 
 [![Instagram](https://img.shields.io/badge/@sanimacoes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanimacoes)
 [![GitHub](https://img.shields.io/badge/sanBisneto1309-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanBisneto1309)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-santiago-50589127b)
 
 </div>
 
@@ -28,7 +29,7 @@
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C#-purple?style=for-the-badge&logo=C#logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
