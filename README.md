@@ -48,7 +48,10 @@
 | [RhymeTime](https://github.com/sanBisneto1309/rhymetime) | Sistema de busca por palavras e rimas entre si com o auxilio das APIs da Claude e Rhymebrain | HTML |
 | [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com o uso de JS e Chart.JS | HTML, CSS, JS e Chart.JS |
 | [VRP](https://github.com/lucazcoding/System-Routes-Optimizer) |  Contribuição como Desenvolvedor do Sistema de Roteamento de Veículos com o uso dos algoritmos Dijkstra e A* | Python e HTML |
-| [TaskFlowAI](https://github.com/sanBisneto1309/taskflow-ai) |  Gerenciador de tarefas com priorização inteligente via Claude AI | Typescript, JavaScript, CSS e HTML |
+| [PoliticosDB](https://github.com/sanBisneto1309/politicosdb) | Base de dados de candidatos e eleitos das eleições brasileiras, com integração à API do TSE e portais de notícias |
+Python, Node.js, PostgreSQL |
+| [StudyAM](https://github.com/Guga-of-Sosaria/StudyAM) | Contribuição como Desenvolvedor Frontend no Website de IA para auxílio de estudos e produtividade |
+JavaScript, CSS e HTML |
 
 
 ---
