@@ -45,7 +45,7 @@
 | Projeto | O que é | Linguagem |
 |---|---|---|
 | [Planejador de Viagens](https://github.com/sanBisneto1309/travel-planner) | Sistema de planejamento de viagens, voos e hospedagens com uso das bibliotecas Streamlit, SQLAlchemy, Plotly, Anthropic SDK, Amadeus SDK. | Python, HTML, CSS, JS e SQL |
-| [RhymeTime](https://github.com/sanBisneto1309/rhymetime) | Sistema de busca por palavras e rimas entre si com o auxilio das APIs da Claude e Rhymebrain | HTML |
+| [FBC](https://github.com/sanBisneto1309/flappy-bird-clone) | Clone simples do clássico Flappy Bird com uso da engine Unity | C#, Unity |
 | [Gerenciador de Gastos](https://github.com/sanBisneto1309/expense-tracker) | Sistema de controle de gastos com o uso de JS e Chart.JS | HTML, CSS, JS e Chart.JS |
 | [VRP](https://github.com/lucazcoding/System-Routes-Optimizer) |  Contribuição como Desenvolvedor do Sistema de Roteamento de Veículos com o uso dos algoritmos Dijkstra e A* | Python e HTML |
 | [PoliticosDB](https://github.com/sanBisneto1309/politicosdb) | Base de dados de candidatos e eleitos das eleições brasileiras, com integração à API do TSE e portais de notícias | Python, Node.js, PostgreSQL |
